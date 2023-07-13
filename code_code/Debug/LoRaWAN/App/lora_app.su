@@ -1,5 +1,0 @@
-lora_app.c:109:6:LoRaWAN_Init	8	static
-lora_app.c:149:13:OnRxData	48	static
-lora_app.c:181:13:OnTxData	72	static
-lora_app.c:214:13:OnJoinRequest	56	static
-lora_app.c:265:13:OnMacProcessNotify	4	static

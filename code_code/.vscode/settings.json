@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "gpio.h": "c",
-        "lora_app.h": "c",
-        "loramac.h": "c",
-        "loramaccrypto.h": "c",
-        "string.h": "c"
-    }
-}
